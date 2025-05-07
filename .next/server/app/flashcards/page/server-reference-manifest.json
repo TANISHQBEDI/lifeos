@@ -1,0 +1,71 @@
+{
+  "node": {
+    "40816088f865a7ec006898895a8066c6d03b3141e3": {
+      "workers": {
+        "app/flashcards/page": {
+          "moduleId": "[project]/.next-internal/server/app/flashcards/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/goal-breakdown-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-flashcards.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-notes.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/answer-question.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/ai/flows/generate-gemini-key.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/ai/flows/summarize-content-flow.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/flashcards/page": "action-browser"
+      }
+    },
+    "40177653d8220ec78da75b2339a1d7ba34853f9ccf": {
+      "workers": {
+        "app/flashcards/page": {
+          "moduleId": "[project]/.next-internal/server/app/flashcards/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/goal-breakdown-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-flashcards.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-notes.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/answer-question.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/ai/flows/generate-gemini-key.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/ai/flows/summarize-content-flow.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/flashcards/page": "action-browser"
+      }
+    },
+    "40e68f04bfc235594d3e830ff59b2305892bcfa1d7": {
+      "workers": {
+        "app/flashcards/page": {
+          "moduleId": "[project]/.next-internal/server/app/flashcards/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/goal-breakdown-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-flashcards.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-notes.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/answer-question.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/ai/flows/generate-gemini-key.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/ai/flows/summarize-content-flow.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/flashcards/page": "action-browser"
+      }
+    },
+    "4076b01d7a5500b865a4490651ea4a244e3234a3c4": {
+      "workers": {
+        "app/flashcards/page": {
+          "moduleId": "[project]/.next-internal/server/app/flashcards/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/goal-breakdown-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-flashcards.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-notes.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/answer-question.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/ai/flows/generate-gemini-key.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/ai/flows/summarize-content-flow.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/flashcards/page": "action-browser"
+      }
+    },
+    "4041079ea9125c54507c880b8418f088fbd561b2e4": {
+      "workers": {
+        "app/flashcards/page": {
+          "moduleId": "[project]/.next-internal/server/app/flashcards/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/goal-breakdown-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-flashcards.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-notes.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/answer-question.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/ai/flows/generate-gemini-key.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/ai/flows/summarize-content-flow.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/flashcards/page": "action-browser"
+      }
+    },
+    "4088dcb2cd2737b28e1de4b03bcf7fe922ca7e1de1": {
+      "workers": {
+        "app/flashcards/page": {
+          "moduleId": "[project]/.next-internal/server/app/flashcards/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/goal-breakdown-flow.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-flashcards.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-notes.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/answer-question.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/ai/flows/generate-gemini-key.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/src/ai/flows/summarize-content-flow.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/flashcards/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

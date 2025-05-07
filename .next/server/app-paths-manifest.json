@@ -1,0 +1,4 @@
+{
+  "/api/auth/session/route": "app/api/auth/session/route.js",
+  "/flashcards/page": "app/flashcards/page.js"
+}
