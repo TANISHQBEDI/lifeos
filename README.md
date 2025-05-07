@@ -19,8 +19,6 @@ This is a Next.js application designed to be your personal operating system, int
     *   Add your MongoDB connection string:
         ```env
         MONGODB_URL="your_mongodb_connection_string"
-        # Example:
-        # MONGODB_URL="mongodb+srv://fowlstar1:DtcGkysHjBM7bsZY@study.mcq95hq.mongodb.net/?retryWrites=true&w=majority&appName=study"
         ```
     *   Set a strong JWT Secret for session management:
         ```env
@@ -29,7 +27,6 @@ This is a Next.js application designed to be your personal operating system, int
     *   Set the admin email (used for accessing admin features):
         ```env
         ADMIN_EMAIL="your_admin_email@example.com"
-        # For example: fowlstar1@gmail.com
         ```
     *   **IMPORTANT: For AI Features (Assistant, PDF Note/Flashcard Generation, Summarization):**
         You **MUST** provide a valid Google AI API key.
